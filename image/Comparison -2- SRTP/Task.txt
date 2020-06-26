@@ -1,0 +1,3 @@
+20190618-20190625
+According to "Comparison.ppt", find some parameters (such as circularity and number of particles) to discribe the characteristics. Then use the image process software to analyse the images, get these parameters and compare them in the same table.
+Good luck!
